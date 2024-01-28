@@ -1,8 +1,8 @@
-# multimodal-cultural-fairness
+# Multimodal Cultural Fairness
 A collection of papers focussing on cultural fairness, inclusivity and diversity in multimodal models
 
 
-# Culture in Text-to-Vision models
+## Culture in Text-to-Vision models
 
 
 
