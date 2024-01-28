@@ -21,14 +21,17 @@ of Text-To-Image Models
 * Auditing and Mitigating Cultural Bias in LLMs
 * Cultural Concept Adaptation on Multimodal Reasoning
 * Social Biases through the Text-to-Image Generation Lens
+* Variation of Gender Biases in Visual Recognition Models Before and After Finetuning
+* AI's Regimes of Representation: A Community-centered Study of Text-to-Image Models in South Asia
 
 
-  ## Survey Paper
-  * On the Cultural Gap in Text-to-Image Generation: https://arxiv.org/pdf/2307.02971.pdf
- 
-  ## Fairness
+## Survey Paper
+* On the Cultural Gap in Text-to-Image Generation: https://arxiv.org/pdf/2307.02971.pdf
 
-  * Social Bias Probing: Fairness Benchmarking for Language Models
+## Fairness
+
+* Social Bias Probing: Fairness Benchmarking for Language Models
+* FACET - New benchmark by Meta to evaluate fairness of vision models
  
 ##  T2I models
 * Stable Diffusion
