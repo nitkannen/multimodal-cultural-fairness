@@ -12,8 +12,6 @@ A collection of papers focussing on cultural fairness, inclusivity and diversity
 
 * Inspecting the Geographical Representativeness of Images from Text-to-Image Models
 
-
-* Inspecting the Geographical Representativeness of Images from Text-to-Image Models
   
 * Navigating Cultural Chasms: Exploring and Unlocking the Cultural POV
 of Text-To-Image Models
@@ -23,6 +21,8 @@ of Text-To-Image Models
 * Social Biases through the Text-to-Image Generation Lens
 * Variation of Gender Biases in Visual Recognition Models Before and After Finetuning
 * AI's Regimes of Representation: A Community-centered Study of Text-to-Image Models in South Asia
+* ITI-GEN: Inclusive Text-to-Image Generation [ICCY 2023] [Google, CMU]
+* Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation [Google]
 
 
 ## Survey Paper
@@ -32,6 +32,8 @@ of Text-To-Image Models
 
 * Social Bias Probing: Fairness Benchmarking for Language Models
 * FACET - New benchmark by Meta to evaluate fairness of vision models
+* FINETUNING TEXT-TO-IMAGE DIFFUSION MODELS FOR FAIRNESS [ICLR 2024]
+* Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness
  
 ##  T2I models
 * Stable Diffusion
