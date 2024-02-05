@@ -34,6 +34,7 @@ of Text-To-Image Models
 * FACET - New benchmark by Meta to evaluate fairness of vision models
 * Finetuning Text-To-Image Diffusion Models for Fairness [ICLR 2024]
 * Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness
+* Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models [EMNLP 2023]
  
 ##  T2I models
 * Stable Diffusion
