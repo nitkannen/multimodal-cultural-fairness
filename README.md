@@ -28,6 +28,9 @@ of Text-To-Image Models
 ## Survey Paper
 * On the Cultural Gap in Text-to-Image Generation: https://arxiv.org/pdf/2307.02971.pdf
 
+## Diversification
+* Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation
+
 ## Fairness
 
 * Social Bias Probing: Fairness Benchmarking for Language Models
