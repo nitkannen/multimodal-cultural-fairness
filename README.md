@@ -32,7 +32,7 @@ of Text-To-Image Models
 
 * Social Bias Probing: Fairness Benchmarking for Language Models
 * FACET - New benchmark by Meta to evaluate fairness of vision models
-* FINETUNING TEXT-TO-IMAGE DIFFUSION MODELS FOR FAIRNESS [ICLR 2024]
+* Finetuning Text-To-Image Diffusion Models for Fairness [ICLR 2024]
 * Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness
  
 ##  T2I models
