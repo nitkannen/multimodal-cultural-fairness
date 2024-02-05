@@ -30,6 +30,7 @@ of Text-To-Image Models
 
 ## Diversification
 * Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation
+* Improving Diversity of Demographic Representation in Large Language Models via Collective-Critiques and Self-Voting [EMNLP 2023]
 
 ## Fairness
 
