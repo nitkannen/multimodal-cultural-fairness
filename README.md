@@ -23,6 +23,7 @@ of Text-To-Image Models
 * AI's Regimes of Representation: A Community-centered Study of Text-to-Image Models in South Asia
 * ITI-GEN: Inclusive Text-to-Image Generation [ICCY 2023] [Google, CMU]
 * Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation [Google]
+* Holistic Evaluation of Text-to-Image Models [T2I evaluation]
 
 
 ## Survey Paper
