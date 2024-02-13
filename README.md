@@ -33,6 +33,7 @@ of Text-To-Image Models
 * Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation
 * Diversify, Don’t Fine-Tune: Scaling Up Visual Recognition Training with Synthetic Images
 * Improving Diversity of Demographic Representation in Large Language Models via Collective-Critiques and Self-Voting [EMNLP 2023]
+* Generalized People Diversity: Learning a Human Perception-Aligned Diversity Representation for People Images [Google Research]
 
 ## Fairness
 
