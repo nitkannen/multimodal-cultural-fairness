@@ -24,6 +24,7 @@ of Text-To-Image Models
 * ITI-GEN: Inclusive Text-to-Image Generation [ICCY 2023] [Google, CMU]
 * Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation [Google]
 * Holistic Evaluation of Text-to-Image Models [T2I evaluation]
+* HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 
 
 ## Survey Paper
