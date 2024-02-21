@@ -39,10 +39,13 @@ of Text-To-Image Models
 ## Fairness
 
 * Social Bias Probing: Fairness Benchmarking for Language Models
+* Social Biases through the Text-to-Image Generation Lens
 * FACET - New benchmark by Meta to evaluate fairness of vision models
 * Finetuning Text-To-Image Diffusion Models for Fairness [ICLR 2024]
 * Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness
+* Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale
 * Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models [EMNLP 2023]
+* 
 * The Male CEO and the Female Assistant: Probing Gender Biases in Text-To-Image Models Through Paired Stereotype Test [UCLA]
  
 ##  T2I models
