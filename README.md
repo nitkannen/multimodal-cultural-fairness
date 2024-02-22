@@ -25,6 +25,7 @@ of Text-To-Image Models
 * Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation [Google]
 * Holistic Evaluation of Text-to-Image Models [T2I evaluation]
 * HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
+* CultureLLM: Incorporating Cultural Differences into Large Language Models
 
 
 ## Survey Paper
