@@ -49,6 +49,7 @@ of Text-To-Image Models
 * Universal Prompt Optimizer for Safe Text-to-Image Generation
 * Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models  [CVPR 2023]
 * The Male CEO and the Female Assistant: Probing Gender Biases in Text-To-Image Models Through Paired Stereotype Test [UCLA]
+* A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models [Microsoft]
  
 ##  T2I models
 * Stable Diffusion
