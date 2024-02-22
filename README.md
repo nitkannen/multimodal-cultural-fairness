@@ -46,7 +46,8 @@ of Text-To-Image Models
 * Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness
 * Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale
 * Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models [EMNLP 2023]
-* 
+* Universal Prompt Optimizer for Safe Text-to-Image Generation
+* Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models  [CVPR 2023]
 * The Male CEO and the Female Assistant: Probing Gender Biases in Text-To-Image Models Through Paired Stereotype Test [UCLA]
  
 ##  T2I models
