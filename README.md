@@ -26,6 +26,7 @@ of Text-To-Image Models
 * Holistic Evaluation of Text-to-Image Models [T2I evaluation]
 * HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 * CultureLLM: Incorporating Cultural Differences into Large Language Models
+* Investigating Cultural Alignment of Large Language Models
 
 
 ## Survey Paper
