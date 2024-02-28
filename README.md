@@ -28,6 +28,10 @@ of Text-To-Image Models
 * CultureLLM: Incorporating Cultural Differences into Large Language Models
 * Investigating Cultural Alignment of Large Language Models
 
+## Culture Grounding
+* A Computational Approach to Identifying CulturalKeywords Across Languages
+* DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures
+
 
 ## Survey Paper
 * On the Cultural Gap in Text-to-Image Generation: https://arxiv.org/pdf/2307.02971.pdf
