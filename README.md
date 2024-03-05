@@ -27,6 +27,7 @@ of Text-To-Image Models
 * HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models
 * CultureLLM: Incorporating Cultural Differences into Large Language Models
 * Investigating Cultural Alignment of Large Language Models
+* Large Language Models as Superpositions of Cultural Perspectives
 
 ## Culture Grounding
 * A Computational Approach to Identifying CulturalKeywords Across Languages
