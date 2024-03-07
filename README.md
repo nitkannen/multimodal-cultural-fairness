@@ -28,6 +28,7 @@ of Text-To-Image Models
 * CultureLLM: Incorporating Cultural Differences into Large Language Models
 * Investigating Cultural Alignment of Large Language Models
 * Large Language Models as Superpositions of Cultural Perspectives
+* Having Beer after Prayer? Measuring Cultural Bias in Large Language Models [Georgia Tech]
 
 ## Culture Grounding
 * A Computational Approach to Identifying CulturalKeywords Across Languages
