@@ -34,8 +34,9 @@ of Text-To-Image Models
 * CIC: A framework for Culturally-aware Image Captioning
 
 ## Culture Grounding
-* A Computational Approach to Identifying CulturalKeywords Across Languages
+* A Computational Approach to Identifying Cultural Keywords Across Languages
 * DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures
+* Having Beer after Prayer? Measuring Cultural Bias in Large Language Models
 
 
 ## Survey Paper
