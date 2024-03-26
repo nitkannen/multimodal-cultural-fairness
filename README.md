@@ -29,15 +29,17 @@ of Text-To-Image Models
 * CultureLLM: Incorporating Cultural Differences into Large Language Models
 * Investigating Cultural Alignment of Large Language Models
 * Large Language Models as Superpositions of Cultural Perspectives
-* Having Beer after Prayer? Measuring Cultural Bias in Large Language Models [Georgia Tech]
+* Having Beer after Prayer? Measuring Cultural Bias in Large Language Models [Georgia Tech] (text)
 * Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing
 * CIC: A framework for Culturally-aware Image Captioning (very good paper)
-* Visually Grounded Reasoning across Languages and Cultures
+* Visually Grounded Reasoning across Languages and Cultures (MILA)
+* Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
 * DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures
 * Having Beer after Prayer? Measuring Cultural Bias in Large Language Models
+* Extracting Cultural Commonsense Knowledge at Scale (WWW 23)
 
 
 ## Survey Paper
