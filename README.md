@@ -36,6 +36,7 @@ of Text-To-Image Models
 * Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning
 * ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding
 * Towards Equitable Representation in Text-to-Image Synthesis Models with the Cross-Cultural Understanding Benchmark (CCUB) Dataset [Same authors as Image captioning] [data for t2I]
+* SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
