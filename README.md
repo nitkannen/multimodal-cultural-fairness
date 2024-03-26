@@ -31,7 +31,8 @@ of Text-To-Image Models
 * Large Language Models as Superpositions of Cultural Perspectives
 * Having Beer after Prayer? Measuring Cultural Bias in Large Language Models [Georgia Tech]
 * Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing
-* CIC: A framework for Culturally-aware Image Captioning
+* CIC: A framework for Culturally-aware Image Captioning (very good paper)
+* Visually Grounded Reasoning across Languages and Cultures
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
