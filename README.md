@@ -34,6 +34,8 @@ of Text-To-Image Models
 * CIC: A framework for Culturally-aware Image Captioning (very good paper)
 * Visually Grounded Reasoning across Languages and Cultures (MILA)
 * Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning
+* ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding
+* Towards Equitable Representation in Text-to-Image Synthesis Models with the Cross-Cultural Understanding Benchmark (CCUB) Dataset [Same authors as Image captioning] [data for t2I]
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
@@ -65,6 +67,7 @@ of Text-To-Image Models
 * Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models  [CVPR 2023]
 * The Male CEO and the Female Assistant: Probing Gender Biases in Text-To-Image Models Through Paired Stereotype Test [UCLA]
 * A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models [Microsoft]
+* 
  
 ##  T2I models
 * Stable Diffusion
