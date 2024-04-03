@@ -55,6 +55,12 @@ of Text-To-Image Models
 * Generalized People Diversity: Learning a Human Perception-Aligned Diversity Representation for People Images [Google Research]
 * RANDOM NETWORK DISTILLATION AS A DIVERSITY METRIC FOR BOTH IMAGE AND TEXT GENERATION
 
+## Diversity Evaluation
+* Rarity Score paper
+* Evaluating the Evaluation of Diversity in Natural Language Generation
+* The Vendi Score: A Diversity Evaluation Metric for Machine Learning
+* An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric
+
 ## Fairness
 
 * Social Bias Probing: Fairness Benchmarking for Language Models
