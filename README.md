@@ -37,6 +37,8 @@ of Text-To-Image Models
 * ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding
 * Towards Equitable Representation in Text-to-Image Synthesis Models with the Cross-Cultural Understanding Benchmark (CCUB) Dataset [Same authors as Image captioning] [data for t2I]
 * SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation
+* Easily accessible text-to-image generation amplifies demographic stereotypes at large scale
+* Diversity is not a one-way street: Pilot study on ethical interventions for racial bias in text-to-image systems
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
@@ -47,6 +49,7 @@ of Text-To-Image Models
 
 ## Survey Paper
 * On the Cultural Gap in Text-to-Image Generation: https://arxiv.org/pdf/2307.02971.pdf
+* Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation
 
 ## Diversification
 * Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation
