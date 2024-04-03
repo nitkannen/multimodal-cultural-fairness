@@ -39,6 +39,7 @@ of Text-To-Image Models
 * SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation
 * Easily accessible text-to-image generation amplifies demographic stereotypes at large scale
 * Diversity is not a one-way street: Pilot study on ethical interventions for racial bias in text-to-image systems
+* Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
