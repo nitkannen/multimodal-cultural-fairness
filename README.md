@@ -40,6 +40,8 @@ of Text-To-Image Models
 * Easily accessible text-to-image generation amplifies demographic stereotypes at large scale
 * Diversity is not a one-way street: Pilot study on ethical interventions for racial bias in text-to-image systems
 * Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density
+* DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity
+* Exposing flaws of generative model evaluation metrics and their unfair treatment of diffusion models. NEURIPS 2023
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
@@ -57,13 +59,15 @@ of Text-To-Image Models
 * Diversify, Don’t Fine-Tune: Scaling Up Visual Recognition Training with Synthetic Images
 * Improving Diversity of Demographic Representation in Large Language Models via Collective-Critiques and Self-Voting [EMNLP 2023]
 * Generalized People Diversity: Learning a Human Perception-Aligned Diversity Representation for People Images [Google Research]
-* RANDOM NETWORK DISTILLATION AS A DIVERSITY METRIC FOR BOTH IMAGE AND TEXT GENERATION
+
 
 ## Diversity Evaluation
 * Rarity Score paper
 * Evaluating the Evaluation of Diversity in Natural Language Generation
 * The Vendi Score: A Diversity Evaluation Metric for Machine Learning
 * An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric
+* DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity
+* Measuring Diversity in Co-creative Image Generation
 
 ## Fairness
 
@@ -78,7 +82,8 @@ of Text-To-Image Models
 * Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models  [CVPR 2023]
 * The Male CEO and the Female Assistant: Probing Gender Biases in Text-To-Image Models Through Paired Stereotype Test [UCLA]
 * A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models [Microsoft]
-* 
+* Reliable Fidelity and Diversity Metrics for Generative Models
+*  RANDOM NETWORK DISTILLATION AS A DIVERSITY METRIC FOR BOTH IMAGE AND TEXT GENERATION
  
 ##  T2I models
 * Stable Diffusion
