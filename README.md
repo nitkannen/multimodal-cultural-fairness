@@ -42,6 +42,7 @@ of Text-To-Image Models
 * Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density
 * DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity
 * Exposing flaws of generative model evaluation metrics and their unfair treatment of diffusion models. NEURIPS 2023
+* Inspecting the Geographical Representativeness of Images from Text-to-Image Models
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
