@@ -43,8 +43,10 @@ of Text-To-Image Models
 * DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity
 * Exposing flaws of generative model evaluation metrics and their unfair treatment of diffusion models. NEURIPS 2023
 * Inspecting the Geographical Representativeness of Images from Text-to-Image Models
-* Culture-Gen: Revealing Global Cultural Perception in Language Models through Natural Language Prompting
+* Culture-Gen: Revealing Global Cultural Perception in Language Models through Natural Language Prompting (Yejin's Group)
 * Not All Countries Celebrate Thanksgiving: On the Cultural Dominance in Large Language Models
+* CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies (Diyi Yang)
+* NORMAD: A Benchmark for Measuring the Cultural Adaptability of Large Language Models (CMU)
 
 ## Culture Grounding
 * A Computational Approach to Identifying Cultural Keywords Across Languages
